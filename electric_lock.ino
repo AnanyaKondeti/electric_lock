@@ -1,3 +1,6 @@
+//* electric lock can be done by also using without lcd i2c (by using general lcd)*//
+
+
 #include <LiquidCrystal_I2C.h>
 #include <EEPROM.h>
 #include <Servo.h>
